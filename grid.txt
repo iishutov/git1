@@ -3,3 +3,4 @@ Also, let`s test merge commit (--no-ff option). This sentence creates merge conf
 Also, let`s test merge commit (--no-ff option). Now i add this sentence for merge conflict check.
 add new line for origin check
 sas
+wtf github have not shown my last commit((
