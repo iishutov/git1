@@ -5,3 +5,4 @@ add new line for origin check
 sas
 wtf github have not shown my last commit((
 now lets check git fetch command!
+now lets check pull command
