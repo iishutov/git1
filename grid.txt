@@ -1,2 +1,2 @@
 new text for the second commit in new branch.
-Also, let`s test merge commit (--no-ff option).
+Also, let`s test merge commit (--no-ff option). This sentence creates merge conflict.
