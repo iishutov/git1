@@ -1,3 +1,4 @@
 new text for the second commit in new branch.
 Also, let`s test merge commit (--no-ff option). This sentence creates merge conflict. (resolve conflict)
 Also, let`s test merge commit (--no-ff option). Now i add this sentence for merge conflict check.
+add new line for origin check
