@@ -7,3 +7,4 @@ wtf github have not shown my last commit((
 now lets check git fetch command!
 now lets check pull command
 pull with merge commit. main branch + add sentence1 (from new branch). HI (from main).
+check commit --amend. This sentence for amend a remote commit.
